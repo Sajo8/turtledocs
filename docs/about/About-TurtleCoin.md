@@ -26,7 +26,7 @@ Some of the main features of TurtleCoin include:
 
 To learn more about us, check out our other various articles, describing:
 
-- [Our Background and History](Background-and-History)
+- [Our Background and History](../Background-and-History)
 
 - [Our Community](Community)
 
